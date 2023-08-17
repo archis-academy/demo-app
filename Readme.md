@@ -7,6 +7,5 @@
 
 ## updated by honey
 
-## changes made by alaina
-## changing code by anjana
-### working on a group project
+## changes made by alaina and anjana
+
