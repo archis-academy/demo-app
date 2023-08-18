@@ -6,12 +6,12 @@
 
 
 # updated by honey
-<<<<<<< HEAD
+
 
 ### updated by aelan and irine
 
 
->>>>>>> master
+
 
 ## changes made by alaina
 ## changing code by anjana
