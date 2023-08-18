@@ -8,7 +8,7 @@
 # updated by honey
 <<<<<<< HEAD
 
-### updated by aelan nad irine
+### updated by aelan and irine
 
 
 >>>>>>> master
