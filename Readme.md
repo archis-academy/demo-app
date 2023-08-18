@@ -6,8 +6,12 @@
 
 
 # updated by honey
-## changes made by  Irine 
+<<<<<<< HEAD
 
+### updated by aelan nad irine
+
+
+>>>>>>> master
 
 ## changes made by alaina
 ## changing code by anjana
