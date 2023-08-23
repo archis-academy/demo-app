@@ -49,7 +49,7 @@
     flex-direction: column;
 }
 .hero-title {
-    font-family: 'Inter' sans-serif;
+    font-family: 'Inter' ,sans-serif;
     font-weight: 800;
     font-size: 72px;
     line-height:98px;
@@ -68,7 +68,7 @@
     border-radius: 6px;
     color:#fff;
     border:0;
-    font-family: 'Inter' sans-serif;
+    font-family: 'Inter' ,sans-serif;
     font-weight: 500;
     font-size: 16px;
     line-height: 24px;
@@ -84,4 +84,41 @@
     align-items: center;
     margin: auto;
     gap:65px;
+}
+
+.content-area{
+    display: flex;
+    gap:30px;
+    margin:64px 165px 48px 165px;
+    max-width:1110px;
+    justify-content: space-between;
+    height: 128;
+}
+.page{
+    height: 100vh;
+   width: 100vw;
+    display: flex;
+padding: 64px 165px;
+flex-direction: column;
+align-items: flex-start;
+gap: 48px;
+}
+.content-image{
+    margin: 0 auto 64px auto;
+}
+.content-title{
+    font-family: 'Inter', sans-serif;
+    font-size: 40px;
+    font-weight: 800;
+    line-height: 54px; 
+    width:540px;
+    height: auto;
+}
+.content-para{
+font-family: 'Inter', sans-serif ;
+font-size: 18px;
+font-weight: 400;
+line-height: 32px; 
+width:540px;
+height: auto;
 }
