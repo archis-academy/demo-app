@@ -85,3 +85,152 @@
     margin: auto;
     gap:65px;
 }
+
+.testimony{
+    display: flex;
+    justify-content: center;
+    gap:30px;
+    background-color: #D5FAFC;
+}
+
+.testimony-intro{
+    margin-left:260px;
+    margin-top: 120px;
+}
+
+.testimony-title{
+    display:flex;
+    flex-direction: column;
+    gap:32px;
+    position:relative;
+}
+
+.big-quote{
+    position: absolute;
+    opacity: 0.7;
+    left:165px;
+    top:64px;
+    height: 120px;
+    width: 143px;
+}
+
+.small-quote{
+    position:absolute;
+    left:32px;
+    top:104px;
+    width:16px;
+    height:14px;
+}
+
+.testimonial-info{
+    margin-left:16px;
+}
+
+.testimony-heading{
+    font-family: 'Inter', sans-serif;
+    font-family: 'Sora', sans-serif;
+    font-size: 48px;
+    font-weight: 800;
+    line-height: 64px;
+}
+
+.testimony-para{
+    font-family: 'Inter', sans-serif;
+    font-family: 'Sora', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 32px;
+}
+
+.testimonials{
+    display:flex;
+    flex-direction: column;
+    gap:32px;
+    position:relative;
+}
+
+.hubspot-testimony{
+    position: relative;
+    margin-left:355px;
+    border-radius:8px;
+    box-shadow:0px 10px 20px 0px rgba(41, 41, 41, 0.07);
+    max-width:350px;
+    min-height: 468px;
+    background-color: #fff;
+    padding:32px;
+}
+
+.hubspot-image {
+    margin-bottom: 32px;
+    width:140px;
+    height:40px;
+}
+
+.compliment{
+    font-family: 'Inter', sans-serif;
+    font-family: 'Sora', sans-serif;
+    margin-bottom:20px;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 32px;
+
+}
+
+.name{
+    font-family: 'Inter', sans-serif;
+    font-family: 'Sora', sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 28px;
+}
+
+
+.designation{
+    font-family: 'Inter', sans-serif;
+    font-family: 'Sora', sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 24px;
+}
+
+
+.bookmyshow-testimony{
+    position: relative;
+    border-radius:8px;
+    box-shadow:0px 10px 20px 0px rgba(41, 41, 41, 0.07);
+    margin-right:355px;
+    margin-bottom:80px;
+    max-width:355px;
+    min-height: 275px;
+    padding:32px;
+    background-color: #fff;
+}
+
+.bookmyshow-image {
+    margin-bottom: 32px;
+    width:135px;
+    height:40px;
+}
+
+
+.airbnb-testimony{
+    position:relative;
+    border-radius:8px;
+    box-shadow:0px 10px 20px 0px rgba(41, 41, 41, 0.07);
+    margin-right:260px;
+    margin-top:165px;
+    max-width:445px;
+    min-height: 340px;
+    padding:32px;
+    background-color: #fff;
+}
+
+.airbnb-image {
+    margin-bottom: 32px;
+    width:130px;
+    height:40px;;
+}
+
+
+
+
