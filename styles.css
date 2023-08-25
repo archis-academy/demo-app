@@ -3,7 +3,7 @@
     padding: 0;
     box-sizing: border-box;
 }
-.app {
+/*.app {
    height: 100vh;
    width: 100vw;
    background-image: url(images/herobg.png);
@@ -84,7 +84,7 @@
     align-items: center;
     margin: auto;
     gap:65px;
-}
+}*/
 
 .content-area{
     display: flex;
@@ -121,7 +121,7 @@ color: #18191F;
     height: auto;
     
 }
-.content-para{
+.content-desc{
 font-family: 'Inter', sans-serif ;
 font-size: 18px;
 font-weight: 400;
@@ -141,7 +141,7 @@ color:#18191F;
     
     
     }
-    .content-para{
+    .content-desc{
         
         font-size: 16px;
         line-height: 32px; 
@@ -161,7 +161,7 @@ color:#18191F;
         font-size: 23px;
         line-height: 45px; 
     }
-    .content-para{
+    .content-desc{
         
         font-size: 14px;
         line-height:32px; 
@@ -177,7 +177,7 @@ color:#18191F;
         font-size: 20px;
         line-height: 38px; 
     }
-    .content-para{
+    .content-desc{
         
         font-size: 12px;
         line-height:28px; 
@@ -186,7 +186,3 @@ color:#18191F;
     
    
 }
-@media screen and (max-width: 1024){}
-@media screen and (max-width: 768px){}
-@media screen and (max-width: 640px){}
-@media screen and (max-width: 475px){}
